@@ -1,4 +1,4 @@
-package javaClass;
+package assignment;
 
 import java.util.Scanner;
 

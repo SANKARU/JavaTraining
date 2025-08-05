@@ -1,4 +1,4 @@
-package javaClass;
+package assignment;
 
 public class AddFloatAndInteger_Assignment {
 
