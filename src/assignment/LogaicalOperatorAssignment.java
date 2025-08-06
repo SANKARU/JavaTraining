@@ -13,13 +13,10 @@ public final class LogaicalOperatorAssignment {
 			System.out.println("Student is Eligible for consultation");
 		}
 
-		else if (age>=17 && age<18) {
+		else if (age >= 17 && age < 18) {
 			System.out.println("Student is Not Eligible for consultation");
-			}
-			else {
-				System.out.println("Enter a valid age:");
-			}
+		} else {
+			System.out.println("Enter a valid age:");
 		}
 	}
-
-
+}

@@ -5,7 +5,7 @@ public class WeekDays {
 	public static void main(String[] args) {
 		
 		
-		int day=10;
+		int day=2;
 		
 		switch(day) {
 		case 1:
