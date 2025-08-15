@@ -8,9 +8,9 @@ public class Vowels_Assignment {
 
 		Scanner scannner = new Scanner(System.in);
 		System.out.println("Enter a character");
-		char v = scannner.next().charAt(0);
+		char vowel = scannner.next().charAt(0);
 
-		switch (v) {
+		switch (vowel) {
 		case 'a':
 		case 'e':
 		case 'i':
